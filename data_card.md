@@ -61,9 +61,8 @@ Dataset có thể chứa nhiễu nhãn (label noise), dữ liệu trùng lặp, 
   - Negative (0): 25,000  
   - Positive (1): 25,000  
 - Data split:  
-  - Train: 40,000  
-  - Validation: 5,000  
-  - Test: 5,000  
+  - Train: 25,000  
+  - Test: 25,000  
 
 ### Text length:
 - Min: 32  
